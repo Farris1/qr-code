@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# CatStudios - QR Code Website
 
 If you are looking for a developer making sure to Join my [Discord Server](https://discord.gg/3Gn3DxSS3Y), @CatStudios#0975
 
